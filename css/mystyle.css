@@ -9,8 +9,12 @@ background-color: #dffc00;
 }
 
 .text {
-    font-size: 30px;
+    font-size: 100px;
     color: #939344
+}
+
+.text2 {
+    font-size: 50px;
 }
 
 img {
